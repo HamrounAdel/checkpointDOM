@@ -1,0 +1,56 @@
+.image{
+
+  padding: 30px;
+}
+body{
+  background-image: url(images/fruit.jpg);
+}
+h1{
+  text-align: center;
+  font-style: calc();
+  color:rgba(13, 13, 13, 0.965);
+}
+
+input{
+    width: 30px;
+     background-color: rgb(154, 153, 151);
+     padding: 5px;
+     text-align: center;
+     border-radius: 10px;
+   }
+   /*button{
+     padding: 5px;
+     background-color: rgb(226, 228, 228);
+     border-radius: 10px;
+   }*/
+  
+   
+   
+    .div1 {
+    display: flex;
+    justify-content: space-around;
+   }
+  
+   .div1 p{
+    
+      color: rgb(239, 6, 6);
+      font-style: var(60px);
+  
+   }
+   .logo{
+    height: 30px;
+    
+   }
+   .sect1{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+   }
+   .sect2{
+    display: block;
+    background-color: rgb(205, 205, 193);
+   }
+   h4{
+    text-align: left;
+    background-color: aliceblue;
+   }
